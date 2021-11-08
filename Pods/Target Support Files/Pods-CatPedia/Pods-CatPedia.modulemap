@@ -1,0 +1,6 @@
+framework module Pods_CatPedia {
+  umbrella header "Pods-CatPedia-umbrella.h"
+
+  export *
+  module * { export * }
+}
